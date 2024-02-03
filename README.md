@@ -4,7 +4,7 @@ Install bleak: pip install bleak
 
 Run: python scan.py
 
-References
+References<br>
 https://github.com/Bluetooth-Devices/mopeka-iot-ble<br>
 https://www.mopekaiot.com/shop
 

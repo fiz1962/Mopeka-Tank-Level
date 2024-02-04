@@ -3,7 +3,7 @@ import struct
 
 from bleak import BleakScanner
 
-timeout = 30
+timeout_seconds = 30
 
 def detection_callback(device, advertisement_data):
             print(device.address, advertisement_data.rssi)
